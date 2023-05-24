@@ -1,0 +1,51 @@
+.titolo-articolo {
+    color: green
+}
+
+#titolo-pagina {
+    font-style: italic;
+}
+
+h1.titolo-articolo {
+    font-style: italic;
+}
+
+.citazione_blocco p {
+    color: brown;
+}
+
+.caption_illustrazione {
+    font-style: italic;
+}
+
+h2 {
+    color: red
+}
+
+h3 {
+    font-style: italic;
+}
+
+.citazione .citazione_blocco#citazione_blocco .citazione_paragrafo {
+    font: size 1.8rem;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+
+/*
+h1 {
+    color: red;
+}
+
+h2 {
+    color: green
+}
+
+p a,
+figure figcaption p {
+    color: blueviolet
+}
+/*
